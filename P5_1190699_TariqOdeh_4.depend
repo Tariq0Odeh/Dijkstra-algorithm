@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623874219 source:c:\users\almanar\desktop\p5_1190699_tariqodeh_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
